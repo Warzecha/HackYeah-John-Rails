@@ -2,7 +2,7 @@
 Our project for HackYeah 2018 - one of the biggest stationary hackathons in the world. Google Assistant Action which allowed users to search for and buy train tickets. The technologies used are Dialogflow and Node.js both on the Assistant side and backend. 
 
 
-![Demo 1](/demo/hy_logo.jpg)
+![Demo 1](/demo/hy_logo.png)
 
 
 
